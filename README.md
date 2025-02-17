@@ -1,4 +1,4 @@
-# Investigation of Smartphone Use and Wellbeing in Adolescents
+# Investigation of Smartphone Use and Wellbeing in Adolescents 📱📱📱
 
 This investigation explores the relationship between smartphone usage and wellbeing in adolescents, expanding on previous research into the effects of technology on mental health. While many studies focus on general technology use, this study distinguishes between passive and interactive screen time, specifically focusing on smartphone usage as a unique form of interactive technology.
 
